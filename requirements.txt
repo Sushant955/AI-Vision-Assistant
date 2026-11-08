@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+pandas
+pillow
+easyocr
+pyttsx3
+requests
+transformers

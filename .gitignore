@@ -1,0 +1,32 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+settings.json
+.streamlit/secrets.toml
+
+# AI model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Database
+database/history.db
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# System files
+.DS_Store
+*.log
+project_code.txt
+file_list.txt
